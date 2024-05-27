@@ -1,3 +1,3 @@
 FROM python:3.9
 
-ENTRYPOINT ["bash", "run.sh"]
+CMD ["bash", "run.sh"]
